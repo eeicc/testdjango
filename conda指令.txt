@@ -1,0 +1,11 @@
+conda –V 檢查目前版本
+conda update conda 進行更新
+conda env list 查看系統安裝幾個虛擬環境
+conda create --name myenv python=3.5 建立名為myenv的虛擬環境，安裝python 3.5的版本
+activate <name> 啟動虛擬環境
+deactivate 離開虛擬環境
+conda remove --name <name> <name> 刪除虛擬環境中某個package
+conda env remove --name <name> 刪除整個虛擬環境
+
+activate Django
+python manage.py runserver

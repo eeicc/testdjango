@@ -1,0 +1,15 @@
+1.Model
+2.View
+3.Template
+4.Url
+有了 Model，等於是擁有了資料庫雛形，接著在 View 處理 商業邏輯
+取得我們想要顯示的資料，然後在 Template決定我們資料要怎麼擺飾!
+最後再將網址與view 作對應。
+
+INSTALLED_APPS 有更改，就要記得下python manage.py migrate
+
+Django ListView(清單檢視類別)
+Django CreateView(新增檢視類別)
+Django UpdateView(修改檢視類別)
+Django DeleteView(刪除檢視類別)
+Django DetailView(內容檢視類別)

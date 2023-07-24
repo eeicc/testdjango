@@ -1,0 +1,2 @@
+https://ithelp.ithome.com.tw/articles/10205365
+https://www.learncodewithmike.com/2020/04/django-tastypie.html
