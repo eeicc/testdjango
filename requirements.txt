@@ -19,3 +19,4 @@ typing-extensions==3.7.4.3
 virtualenv==20.4.2
 wrapt==1.11.1
 zipp==3.4.0
+django-allauth==0.54.0
