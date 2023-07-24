@@ -1,1 +1,1 @@
-# Django練習
+# Django部屬到Render
