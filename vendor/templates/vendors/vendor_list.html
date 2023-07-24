@@ -1,4 +1,5 @@
 {% extends 'base.html' %}
+{% csrf_token %}
 {% block content %}
 {% for vendor in object_list %}
  <div class="">
